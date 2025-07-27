@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/52wj0l39nfmbcx31/branch/master?svg=true)](https://ci.appveyor.com/project/AlenaNadezhkina/t1-1/branch/master)
+[![Java CI with Gradle](https://github.com/AlenaNadezhkina/t1_1/actions/workflows/gradle.yml/badge.svg)](https://github.com/AlenaNadezhkina/t1_1/actions/workflows/gradle.yml)
